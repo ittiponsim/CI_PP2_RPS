@@ -21,6 +21,12 @@ So, are you ready to rock, paper, or scissors your way to victory? Click, choose
 ## Existing Features
 * ### Navigation bar
 
+# Testing
+* ## 
+* ## 
+* ## 
+* ## 
+ (assets/images/lighthouse.png)
 
  # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -47,8 +53,15 @@ Live link : (https://ittiponsim.github.io/CI_PP2_RPS/)
   `<link rel = " stylesheet" href = "assets/css/style.css">`
 
  * Removing the starting / fixed the problem.
+* ## Validator Testing
+* HTML
+  No errors were returned when passing through the officail W3C validator.
+* CSS
+No errors were returned when passing through the officail (Jigsaw) validator.
+* JavaScript
 
- 
+
+
 
 ---
 
