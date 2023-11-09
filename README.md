@@ -24,7 +24,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 2. From the source section drop-down menu, select the Master Branch
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-Live link : (https://adnaan-77.github.io/myproject1/)
+Live link : (https://ittiponsim.github.io/CI_PP2_RPS/)
 
 # Credits
 1. I used the code institute template for my coding and I got a lot of insparation from the "Love Running" project which made me want to make a similar website but a different theme.
