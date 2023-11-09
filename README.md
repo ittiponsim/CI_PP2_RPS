@@ -16,6 +16,10 @@ Decision-Making Practice: Sharpen your decision-making skills in a playful setti
 Social Connection: Use it as an icebreaker, a friendly competition, or a digital handshake.
 So, are you ready to rock, paper, or scissors your way to victory? Click, choose, and conquer the virtual battlefield!
 
+# Features
+
+## Existing Features
+* ### Navigation bar
 
 
  # Deployment
@@ -35,8 +39,13 @@ Live link : (https://ittiponsim.github.io/CI_PP2_RPS/)
 
 ![]()
 
-
-
+* ## Bugs
+### Solved Bugs
+ * When I first deployed my project to GitHub Pages, my project did not looad style. the CSS link did not work.
+ * I soloved the problem by removing the absolute file path to 
+ <link rel = " stylesheet" href = "assets/css/style.css">
+ * Removing the starting / fixed the problem.
+ 
 
 ## Codeanywhere Reminders
 
