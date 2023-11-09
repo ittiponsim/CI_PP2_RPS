@@ -22,11 +22,16 @@ So, are you ready to rock, paper, or scissors your way to victory? Click, choose
 * ### Navigation bar
 
 # Testing
+* ##
+bbbbbbb
+
 * ## 
+mmmmmm
 * ## 
+mmmmmm
+
 * ## 
-* ## 
- (assets/images/lighthouse.png)
+ ![ Lighthouse ](assets/images/lighthouse.png)
 
  # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
