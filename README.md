@@ -1,8 +1,11 @@
-![Rock Paper Scissors logo](assets/images/readme_logo.png)
+
 
  Game Center : [ Rock Paper Scissors ](https://ittiponsim.github.io/CI_PP2_RPS/)
 
+![Rock Paper Scissors logo](assets/images/readme_logo.png)
 Welcome to a digital arena where classic meets contemporary—the Rock, Paper, Scissors game like you've never experienced before! Crafted with love using HTML, CSS, and JavaScript, our game brings the timeless charm of this childhood favorite into the digital age.
+
+! [Game](assets/images/RPS_mockup.png)
 
 Purpose:
 Whether you're a casual gamer looking for a quick thrill or a strategic mind honing your decision-making skills, our Rock, Paper, Scissors game is designed for pure, unadulterated fun. It's a virtual battleground where luck dances with strategy, and every choice you make determines your fate.
@@ -22,12 +25,12 @@ So, are you ready to rock, paper, or scissors your way to victory? Click, choose
 * ### Navigation bar
 
 # Testing
-* ## I tested playing this game 
+* I tested playing this game 1
 bbbbbbb
 
-* ## 
+* I tested playing this game 2 
 mmmmmm
-* ## 
+* I tested playing this game 3
 mmmmmm
 
 * ## 
