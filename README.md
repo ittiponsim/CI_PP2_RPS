@@ -24,14 +24,6 @@ So, are you ready to rock, paper, or scissors your way to victory? Click, choose
 ## Existing Features
 * ### Navigation bar
 
-# Testing
-* I tested playing this game 1
-bbbbbbb
-
-* I tested playing this game 2 
-mmmmmm
-* I tested playing this game 3
-mmmmmm
 
 * ## 
  ![ Lighthouse ](assets/images/lighthouse.png)
