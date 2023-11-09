@@ -35,10 +35,6 @@ After one of the players has reached 5 points, the JavaScript alerts " Game Over
 the player can restart the game by pressing the unhidden Restart Game button. 
 
 ![](assets/images/feature2.png)
-* ### Navigation bar
-
-
-
 
  # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
