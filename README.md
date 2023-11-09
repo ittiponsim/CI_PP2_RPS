@@ -22,7 +22,7 @@ So, are you ready to rock, paper, or scissors your way to victory? Click, choose
 * ### Navigation bar
 
 # Testing
-* ##
+* ## I tested playing this game 
 bbbbbbb
 
 * ## 
