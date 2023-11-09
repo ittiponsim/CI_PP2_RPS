@@ -1,6 +1,6 @@
 ![Rock Paper Scissors logo](assets/images/readme_logo.png)
 
-[ Game Center : Rock Paper Scissors ]
+ Game Center : [ Rock Paper Scissors ](https://ittiponsim.github.io/CI_PP2_RPS/)
 
 Welcome to a digital arena where classic meets contemporary—the Rock, Paper, Scissors game like you've never experienced before! Crafted with love using HTML, CSS, and JavaScript, our game brings the timeless charm of this childhood favorite into the digital age.
 
