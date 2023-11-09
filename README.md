@@ -39,7 +39,7 @@ the player can restart the game by pressing the unhidden Restart Game button.
 * ### The Footer
 * The footer section shows the rules of Rock Paper Scissors.
 * the footer is valuable to the users because it clearly explains how the game is played.
-
+![](assets/images/footer_RPS.png)
 
  # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
