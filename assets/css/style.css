@@ -45,14 +45,14 @@ body {
     width: 120px;
     padding: 5px;
     margin: 10px;
-    font: solid ;
+    font-weight: 100;
   }
   .restartBtn{
     line-height: 30px;
     width: 120px;
     padding: 5px;
     margin: 10px;
-    font: solid ;
+    font-weight: 100;
   }
   
   #playerText{

@@ -22,11 +22,13 @@ So, are you ready to rock, paper, or scissors your way to victory? Click, choose
 # Features
 
 ## Existing Features
+* ### Header
+
+
 * ### Navigation bar
 
 
-* ## 
- ![ Lighthouse ](assets/images/lighthouse.png)
+
 
  # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -35,6 +37,21 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 Live link : (https://ittiponsim.github.io/CI_PP2_RPS/)
+
+* ## Lighthouse Testing
+ ![ Lighthouse ](assets/images/lighthouse.png)
+
+* ## Validator Testing
+* HTML
+  No errors were returned when passing through the officail W3C validator.
+  ![](assets/images/html_check.png)
+
+* CSS
+No errors were returned when passing through the officail (Jigsaw) validator.
+![](assets/images/css_check.png)
+
+* JavaScript
+![](assets/images/wave_check.png)
 
 # Credits
 1. I used the code institute template for my coding and I got a lot of insparation from the "Love Maths" project which made me want to make a similar website but a different theme.
@@ -53,12 +70,7 @@ Live link : (https://ittiponsim.github.io/CI_PP2_RPS/)
   `<link rel = " stylesheet" href = "assets/css/style.css">`
 
  * Removing the starting / fixed the problem.
-* ## Validator Testing
-* HTML
-  No errors were returned when passing through the officail W3C validator.
-* CSS
-No errors were returned when passing through the officail (Jigsaw) validator.
-* JavaScript
+
 
 
 
