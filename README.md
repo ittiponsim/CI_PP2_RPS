@@ -27,7 +27,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 Live link : (https://ittiponsim.github.io/CI_PP2_RPS/)
 
 # Credits
-1. I used the code institute template for my coding and I got a lot of insparation from the "Love Running" project which made me want to make a similar website but a different theme.
+1. I used the code institute template for my coding and I got a lot of insparation from the "Love Maths" project which made me want to make a similar website but a different theme.
 
 ## Content
 1. The icons in the footer were taken from Font Awesome website.
