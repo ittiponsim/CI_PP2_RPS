@@ -25,8 +25,9 @@ body {
 
 /* --------- Game layout */
 
-#game-area {
+.game-area {
     text-align: center;
+    align-items: center;
     background-color: #E6ECF0;
     border: 3px solid;
     box-sizing: border-box;
