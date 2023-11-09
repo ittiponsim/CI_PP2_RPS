@@ -22,8 +22,15 @@ So, are you ready to rock, paper, or scissors your way to victory? Click, choose
 # Features
 
 ## Existing Features
-* ### Header
 
+* ### Header
+Featured at the top of the page, Rock Paper Scissors shows logo and the game name Rock Paper Scissors in a clean and easy to read style.
+* ### The Game Options
+There are buttons indicated Rock , Paper and Scissors with icons for a player and choose to play.
+* ### The Game Results
+When the user clicks an option, the JavaScript code chooses a random option for the computer player, then then shows the result of draw, player wins or Computer wins
+After one of the players has reached 5 times of winning, the JavaScript alerts " Game Over " 
+the player can restart the game bu pressing Restart Game button. 
 
 * ### Navigation bar
 
