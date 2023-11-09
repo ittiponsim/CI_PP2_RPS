@@ -16,6 +16,28 @@ Decision-Making Practice: Sharpen your decision-making skills in a playful setti
 Social Connection: Use it as an icebreaker, a friendly competition, or a digital handshake.
 So, are you ready to rock, paper, or scissors your way to victory? Click, choose, and conquer the virtual battlefield!
 
+
+
+ # Deployment
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+1. In the GitHub repository, navigate to the Settings tab
+2. From the source section drop-down menu, select the Master Branch
+3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+Live link : (https://adnaan-77.github.io/myproject1/)
+
+# Credits
+1. I used the code institute template for my coding and I got a lot of insparation from the "Love Running" project which made me want to make a similar website but a different theme.
+
+## Content
+1. The icons in the footer were taken from Font Awesome website.
+2. The images used for the gallery page were taken from a website called pexels.
+
+![]()
+
+
+
+
 ## Codeanywhere Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
