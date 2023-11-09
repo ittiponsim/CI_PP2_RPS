@@ -13,6 +13,10 @@ body {
     text-align: center;
     font-size: 2.5rem;
 }
+.scores{
+    text-align: center;
+    font-size: 2rem;
+}
 
 .logo {
     height: 40px;
@@ -40,6 +44,14 @@ body {
     width: 120px;
     padding: 5px;
     margin: 10px;
+    font: solid ;
+  }
+  .restartBtn{
+    line-height: 30px;
+    width: 120px;
+    padding: 5px;
+    margin: 10px;
+    font: solid ;
   }
   
   #playerText{
