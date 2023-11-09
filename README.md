@@ -44,7 +44,7 @@ Live link : (https://ittiponsim.github.io/CI_PP2_RPS/)
  * When I first deployed my project to GitHub Pages, my project did not looad style. the CSS link did not work.
  * I soloved the problem by removing the absolute file path to 
 
- ( <link rel = " stylesheet" href = "assets/css/style.css"> )
+  `<link rel = " stylesheet" href = "assets/css/style.css">`
 
  * Removing the starting / fixed the problem.
  
